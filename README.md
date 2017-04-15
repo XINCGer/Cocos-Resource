@@ -1,7 +1,9 @@
 <link href="css/avenir-white.css" rel="stylesheet"></link>
-# Cocos 资料大全
+Cocos 资料大全
+=========
 
-**本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)**<iframe src="https://ghbtns.com/github-btn.html?user=fusijie&repo=cocos-resource&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" align="top"></iframe>
+
+**本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)**
 
 <!--TOC BEGIN-->
 
@@ -46,21 +48,21 @@
 
 <!--TOC END-->
 
-###Cocos 文档相关
+### Cocos 文档相关
 
-####Cocos2d-x 中英文发布说明
+#### Cocos2d-x 中英文发布说明
 
 * GitBook 地址：[http://fusijie.github.io/Cocos2dx-Release-Note](http://fusijie.github.io/Cocos2dx-Release-Note)
 
 * Github 地址：[https://github.com/fusijie/Cocos2dx-Release-Note](https://github.com/fusijie/Cocos2dx-Release-Note)
 
-####Cocos2d-x 官方文档
+#### Cocos2d-x 官方文档
 
 * 在线版：[http://www.cocos2d-x.org/docs](http://www.cocos2d-x.org/docs)
 
 * 离线版：[https://github.com/chukong/cocos-docs](https://github.com/chukong/cocos-docs)
 
-####Cocos2d-x API 手册
+#### Cocos2d-x API 手册
 
 * 在线版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
 
@@ -82,26 +84,29 @@
 	|v2.2.6	|[点击下载](http://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
 	|v2.2.3	|[点击下载](http://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
 
-####Cocos Creator 官方文档
+#### Cocos Creator 官方文档
 
 英文版：[http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html](http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html)
 
 中文版：[http://www.cocos.com/docs/creator](http://www.cocos.com/docs/creator)
 
-####Cocos Creator API 手册
+#### Cocos Creator API 手册
 
 英文版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
 
 中文版：[http://cocos.com/docs/creator/api](http://cocos.com/docs/creator/api)
 
-###Cocos 引擎下载
+### Cocos 引擎下载
 
 *从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*
 
-####Cocos2d-x 引擎下载
+#### Cocos2d-x 引擎下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.14.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1.zip)|
+|cocos2d-x-3.14.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.zip)|
+|cocos2d-x-3.14.1rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1rc0.zip)|
 |cocos2d-x-3.13.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.13.1.zip)|
 |cocos2d-x-3.13.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.13.zip)|
 |cocos2d-x-3.12.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.12.zip)|
@@ -148,7 +153,7 @@
 |cocos2d-x-2.2.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip)|
 |cocos2d-x-2.2.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip)|
 
-####Cocos2d-js 引擎下载
+#### Cocos2d-js 引擎下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
@@ -175,11 +180,11 @@
 |cocos2d-js-v3.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
 |cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
 
-####Cocos2d-js Lite 引擎下载
+#### Cocos2d-js Lite 引擎下载
 
 * 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder/](http://cocos2d-x.org/filecenter/jsbuilder/)
 
-####Quick-cocos2d-x 引擎下载
+#### Quick-cocos2d-x 引擎下载
 
 *Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还在维护的 quick 社区版，因为 quick 的下载都没有 cdn，所以下载地址都是在 Github 上。*
 
@@ -202,9 +207,9 @@
 |quick-cocos2d-x-v2.1.4-20130821|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130821)
 |quick-cocos2d-x-v2.1.4-20130808|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130808)
 
-###Cocos 配套工具下载
+### Cocos 配套工具下载
 
-####Cocos 下载
+#### Cocos 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
@@ -291,7 +296,7 @@
 |Cocos-v1.0-preview-mac64.dmg|[点击下载](http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-mac64.dmg)|
 |Cocos-v1.0-preview-win64.exe|[点击下载](http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-win64.exe)|
 
-####Cocos Studio 下载
+#### Cocos Studio 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
@@ -333,7 +338,7 @@
 |CocosStudioForMac-2.0.0.0_Alpha.dmg|[点击下载](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg)|
 |CocosStudioForWin-2.0.0.0-Beta0.exe|[点击下载](http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe)|
 
-####Cocos FrameWork 下载
+#### Cocos FrameWork 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
@@ -361,14 +366,14 @@
 |CocosFrameworkSamples_v3.8.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip)|
 |CocosFrameworkSamples_v3.9.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip)|
 
-####Cocos Simuator 下载
+#### Cocos Simuator 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
 |CocosSimulatorWin_v1.0.exe|[点击下载](http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe)|
 |CocosSimulatorMac_v1.0.pkg|[点击下载](http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg)|
 
-####Cocos IDE 下载
+#### Cocos IDE 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
@@ -418,10 +423,22 @@
 |cocos-code-ide-win64-1.0.0-final.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip)|
 |cocos-intellij-plugin-2.0.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip)|
 
-####Cocos Creator 下载
+#### Cocos Creator 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
+|CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
+|CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
+|CocosCreator_v1.4.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_win)|
+|CocosCreator_v1.4.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_mac)|
+|CocosCreator_v1.4.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_win)|
+|CocosCreator_v1.3.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_mac)|
+|CocosCreator_v1.3.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_win)|
+|CocosCreator_v1.3.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_mac)|
+|CocosCreator_v1.3.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_win)|
+|CocosCreator_v1.3.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_mac)|
+|CocosCreator_v1.3.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_win)|
 |CocosCreator_v1.3.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_mac)|
 |CocosCreator_v1.3.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_win)|
 |Creator-Lua-Support-1.1.3-mac|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-mac)|
@@ -454,9 +471,9 @@
 |CocosCreator_v0.7.0_mac.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip)|
 |CocosCreator_v0.7.0_win.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
 
-###Cocos 版本关系说明
+### Cocos 版本关系说明
 
-####Cocos2d-x 与 Cocos Studio 版本对应关系
+#### Cocos2d-x 与 Cocos Studio 版本对应关系
 
 *此部分数据来自[CocoaChina: Cocos Studio和Cocos2d-x版本对应关系](http://www.cocoachina.com/bbs/read.php?tid-182077-keyword-%B0%E6%B1%BE%B6%D4%D3%A6.html)，数据可能不完整，仅提供参考。*
 
@@ -488,7 +505,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 1.0.0.1 	|
 1.0.0.0	|
 
-####Cocos2d-x 与 NDK 版本对应关系
+#### Cocos2d-x 与 NDK 版本对应关系
 
 | Cocos2-x 版本 | NDK 版本 | 备注 |
 |:-----:|:-----:|:------|
@@ -504,9 +521,9 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |v3.9|r10c|
 |v3.10|r10c|
 
-###Cocos Android 相关下载
+### Cocos Android 相关下载
 
-####Android NDK 下载
+#### Android NDK 下载
 
 | NDK 版本 | 下载地址 | 平台 |
 |:---:|:---:|:---:|
@@ -514,19 +531,19 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |r9d	|[点击下载](http://pan.baidu.com/s/1kUiDdmZ)| Windows 32/64 Mac 32/64 Linux 32/64
 |r10c	|[点击下载](http://pan.baidu.com/s/1dEabLVr)| Windows 32/64 Mac 32/64 Linux 32/64
 
-####Android Studio 下载
+#### Android Studio 下载
 
 *从 Cocos2d-x v3.7 开始支持使用 Android Studio。*
 
 * [点击下载](https://github.com/inferjay/AndroidDevTools#android-studio)
 
-####Android ADT Bundle 下载
+#### Android ADT Bundle 下载
 
 * [点击下载](https://github.com/inferjay/AndroidDevTools#adt-bundle)
 
-###Cocos 第三方游戏工具下载
+### Cocos 第三方游戏工具下载
 
-####位图字体工具
+#### 位图字体工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -535,7 +552,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Glyph Designer 		|[进入官网](http://glyphdesigner.71squared.com/)|付费|Mac
 |Hiero					|[进入官网](https://github.com/libgdx/libgdx/wiki/Hiero)|免费|Windows/Mac
 
-####粒子编辑工具
+#### 粒子编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -545,7 +562,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Particle Editor		|[进入官网](http://onebyonedesign.com/flash/particleeditor/)|免费|Online
 
 
-####物理编辑工具
+#### 物理编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -553,7 +570,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |PhysicsEditor	|[进入官网](https://www.codeandweb.com/physicseditor)|付费|Windows/Mac
 |VertexHelper		|[进入官网](https://github.com/jfahrenkrug/VertexHelper)|开源|Mac
 
-####场景编辑工具
+#### 场景编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -562,7 +579,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Cocoshop			|[进入官网](https://github.com/andrew0/cocoshop)|开源|Mac
 |LevelHelper		|[进入官网](http://www.gamedevhelper.com/)|付费|Mac
 
-####纹理图集工具
+#### 纹理图集工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -571,14 +588,14 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Zwoptex					|[进入官网](https://zwopple.com/zwoptex/)|免费/付费|Mac
 |SpriteUV|[进入官网](http://www.spriteuv.com/)|免费|Windows
 
-####瓦片地图编辑工具
+#### 瓦片地图编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |iTileMaps 			|[进入官网](https://www.klemix.com/)|免费|iOS
 |Tiled Map Editor	|[进入官网](http://www.mapeditor.org/)|开源|Windows/Mac
 
-####声音特效编辑工具
+#### 声音特效编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -586,7 +603,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |bfxr		|[进入官网](http://www.bfxr.net/)|免费|Windows/Mac/Online
 |Labchirp	|[进入官网](http://labbed.net/software.php?id=labchirp)|免费|Windows
 
-####背景音乐编辑工具
+#### 背景音乐编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -594,14 +611,14 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Reaper		|[进入官网](http://www.cockos.com/reaper/)|付费|Windows/Mac
 |Ardour		|[进入官网](http://ardour.org/)|免费|Windows/Mac
 
-####GIF 动画帧导出工具
+#### GIF 动画帧导出工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |UleadGifAnimator	|[进入官网](http://www.crsky.com/soft/4010.html)|免费|Windows
 |ShoeBox				|[进入官网](http://renderhjs.net/shoebox/)|免费|Windows/Mac
 
-####骨骼动画编辑工具
+#### 骨骼动画编辑工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
@@ -609,16 +626,16 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Dragonbones	|[进入官网](http://dragonbones.github.io/)|开源|Windows/Mac
 |Spriter		|[进入官网](http://www.brashmonkey.com/)|付费|Windows/Mac
 
-####3D 模型工具
+#### 3D 模型工具
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |FBX-Converter	|[进入官网](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)|免费|Windows/Mac
 
-####体素编辑工具
+#### 体素编辑工具
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |MagicaVoxel	|[进入官网](https://ephtracy.github.io/)|免费|Windows/Mac
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2016-10-29 16:52:42
+更新时间：2017-04-12 17:58:04
