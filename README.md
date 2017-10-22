@@ -70,19 +70,24 @@ Cocos 资料大全
 	
 	| Cocos2d-x 版本 | 下载地址 | 支持语言 |
 	|:---:|:---:|:---:|
-	|v3.10		|[点击下载](http://pan.baidu.com/s/1kUfpCmr) | C++/JS/Lua |
-	|v3.9		|[点击下载](http://pan.baidu.com/s/1eQRSDH4) | C++/JS/Lua |
-	|v3.8		|[点击下载](http://pan.baidu.com/s/1hqXUhdq) | C++/JS/Lua |
-	|v3.7		|[点击下载](http://pan.baidu.com/s/1kUuiUJt) | C++/JS/Lua |
-	|v3.6		|[点击下载](http://pan.baidu.com/s/1eQEQKrK) | C++/JS/Lua |
-	|v3.5		|[点击下载](http://pan.baidu.com/s/1eQjbJ0Y) | C++/JS/Lua |
-	|v3.4		|[点击下载](http://pan.baidu.com/s/1kTh3VJT) | C++/JS/Lua |
-	|v3.3		|[点击下载](http://pan.baidu.com/s/1qW2WA1A) | C++/JS/Lua |
-	|v3.2		|[点击下载](http://pan.baidu.com/s/1kT3ODJx) | C++/JS/Lua |
-	|v3.1		|[点击下载](http://pan.baidu.com/s/1bn0Hevt) | C++/JS/Lua |
-	|v3.0		|[点击下载](http://pan.baidu.com/s/1gdYBU6n) | C++/JS/Lua |
-	|v2.2.6	|[点击下载](http://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
-	|v2.2.3	|[点击下载](http://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
+	|v3.15		|[点击下载](https://pan.baidu.com/s/1gfimQxP) | C++/JS/Lua |
+	|v3.14		|[点击下载](https://pan.baidu.com/s/1jHVV1dG) | C++/JS/Lua |
+	|v3.13		|[点击下载](https://pan.baidu.com/s/1boJs9zx) | C++/JS/Lua |
+	|v3.12		|[点击下载](https://pan.baidu.com/s/1dEI82UP) | C++/JS/Lua |
+	|v3.11		|[点击下载](https://pan.baidu.com/s/1nvp2iz3) | C++/JS/Lua |
+	|v3.10		|[点击下载](https://pan.baidu.com/s/1kUfpCmr) | C++/JS/Lua |
+	|v3.9		|[点击下载](https://pan.baidu.com/s/1eQRSDH4) | C++/JS/Lua |
+	|v3.8		|[点击下载](https://pan.baidu.com/s/1hqXUhdq) | C++/JS/Lua |
+	|v3.7		|[点击下载](https://pan.baidu.com/s/1kUuiUJt) | C++/JS/Lua |
+	|v3.6		|[点击下载](https://pan.baidu.com/s/1eQEQKrK) | C++/JS/Lua |
+	|v3.5		|[点击下载](https://pan.baidu.com/s/1eQjbJ0Y) | C++/JS/Lua |
+	|v3.4		|[点击下载](https://pan.baidu.com/s/1kTh3VJT) | C++/JS/Lua |
+	|v3.3		|[点击下载](https://pan.baidu.com/s/1qW2WA1A) | C++/JS/Lua |
+	|v3.2		|[点击下载](https://pan.baidu.com/s/1kT3ODJx) | C++/JS/Lua |
+	|v3.1		|[点击下载](https://pan.baidu.com/s/1bn0Hevt) | C++/JS/Lua |
+	|v3.0		|[点击下载](https://pan.baidu.com/s/1gdYBU6n) | C++/JS/Lua |
+	|v2.2.6	|[点击下载](https://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
+	|v2.2.3	|[点击下载](https://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
 
 #### Cocos Creator 官方文档
 
@@ -104,6 +109,9 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.15.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.1.zip)|
+|cocos2d-x-3.15.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.zip)|
+|cocos2d-x-3.15rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15rc0.zip)|
 |cocos2d-x-3.14.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1.zip)|
 |cocos2d-x-3.14.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.zip)|
 |cocos2d-x-3.14.1rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1rc0.zip)|
@@ -190,6 +198,10 @@ Cocos 资料大全
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.6.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.5_Release)
+|quick-cocos2d-x-community-v3.6.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.4_Release)
+|quick-cocos2d-x-community-v3.6.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.3_release)
+|quick-cocos2d-x-community-v3.6.2|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.2_Release)
 |quick-cocos2d-x-community-v3.6.1|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6.1_Release)
 |quick-cocos2d-x-community-v3.6|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6_release)
 |quick-cocos2d-x-v3.3|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3)
@@ -427,6 +439,16 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.6.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_win)|
+|CocosCreator_v1.6.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_mac)|
+|CocosCreator_v1.6.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_win)|
+|CocosCreator_v1.6.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_mac)|
+|CocosCreator_v1.5.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_mac)|
+|CocosCreator_v1.5.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_win)|
+|CocosCreator_v1.5.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_mac)|
+|CocosCreator_v1.5.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_win)|
+|CocosCreator_v1.5.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_mac)|
+|CocosCreator_v1.5.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_win)|
 |CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
 |CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
 |CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
@@ -638,4 +660,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2017-04-12 17:58:04
+更新时间：2017-09-01 16:48:00
