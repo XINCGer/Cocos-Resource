@@ -1,12 +1,14 @@
 <link href="css/avenir-white.css" rel="stylesheet"></link>
-Cocos 资料大全
-=========
 
+### Cocos 资料大全
+
+---
 
 **本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)**
 
 <!--TOC BEGIN-->
 
+- [Cocos 资料大全](#cocos-%E8%B5%84%E6%96%99%E5%A4%A7%E5%85%A8)
 - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
 	- [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
 	- [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
@@ -109,6 +111,8 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.17.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.zip)|
+|cocos2d-x-3.16.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.16.zip)|
 |cocos2d-x-3.15.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.1.zip)|
 |cocos2d-x-3.15.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.zip)|
 |cocos2d-x-3.15rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15rc0.zip)|
@@ -439,6 +443,25 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.9.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_win)|
+|CocosCreator_v1.9.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_mac)|
+|CocosCreator_v1.9.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_win)|
+|CocosCreator_v1.9.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_mac)|
+|CocosCreator_v1.9.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_win)|
+|CocosCreator_v1.9.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_mac)|
+|CocosCreator_v1.9.0-rc1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0-rc1_mac)|
+|CocosCreator_v1.8.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_win)|
+|CocosCreator_v1.8.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_mac)|
+|CocosCreator_v1.8.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_win)|
+|CocosCreator_v1.8.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_mac)|
+|CocosCreator_v1.8.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_win)|
+|CocosCreator_v1.8.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_mac)|
+|CocosCreator_v1.7.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_win)|
+|CocosCreator_v1.7.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_mac)|
+|CocosCreator_v1.7.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_win)|
+|CocosCreator_v1.7.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_mac)|
+|CocosCreator_v1.6.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_win)|
+|CocosCreator_v1.6.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_mac)|
 |CocosCreator_v1.6.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_win)|
 |CocosCreator_v1.6.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_mac)|
 |CocosCreator_v1.6.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_win)|
@@ -624,6 +647,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |cfxr		|[进入官网](http://thirdcog.eu/apps/cfxr/)|开源|Mac
 |bfxr		|[进入官网](http://www.bfxr.net/)|免费|Windows/Mac/Online
 |Labchirp	|[进入官网](http://labbed.net/software.php?id=labchirp)|免费|Windows
+|Sound Studio |[进入官网](http://felttip.com/ss/)|免费|Mac
 
 #### 背景音乐编辑工具
 
@@ -660,4 +684,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2017-09-01 16:48:00
+更新时间：2018-06-24 12:04:56
